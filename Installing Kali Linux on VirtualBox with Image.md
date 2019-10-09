@@ -77,7 +77,7 @@
 
 4.  To update all installed packages, you can run the following command
 
-    1.  sudo apt-get update & apt-get upgrade -y
+    1.  sudo apt-get update && apt-get upgrade -y
 
         1.  This may take a while
 
