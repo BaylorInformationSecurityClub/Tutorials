@@ -1,4 +1,4 @@
-OpenVAS Installation Tutorial
+# **OpenVAS Installation Tutorial**
 
 1.  Open Terminal and run the following
 
