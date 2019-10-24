@@ -9,19 +9,7 @@
 
 **Downloading the Kali Image**
 
-1.  Navigate to
-    <https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/>
-
-2.  Open the dropdown for “Kali Linux VirtualBox Images”
-
-3.  Download the “Kali Linux VirtualBox 64-Bit” file
-
-    1.  This is a pre-made image of Kali Linux that we can import directly in to
-        VirtualBox.
-
-    2.  This saves time because we do not have to run through the Kali
-        installer. Once you import this image into VirtualBox, you are good to
-        go.
+1.  [https://images.offensive-security.com/virtual-images/kali-linux-2019.3a-vbox-amd64.ova](Download VirtualBox Image 64-bit)
 
 **Setting Up the Virtual Machine**
 
