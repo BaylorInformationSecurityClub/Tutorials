@@ -9,7 +9,7 @@
 
 **Downloading the Kali Image**
 
-[https://images.offensive-security.com/virtual-images/kali-linux-2019.3a-vbox-amd64.ova](Download VirtualBox Image 64-bit)
+[Download VirtualBox Image 64-bit](https://images.offensive-security.com/virtual-images/kali-linux-2019.3a-vbox-amd64.ova)
 
 **Setting Up the Virtual Machine**
 
