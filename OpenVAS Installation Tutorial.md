@@ -2,9 +2,9 @@
 
 1.  Open Terminal and run the following
 
-    1.  apt-get install openvas
+    1.  apt-get install openvas (note: username & password is displayed at the end of the install in the terminal window)
 
-    2.  openvas-setup
+    2.  openvas-setup 
 
     3.  netstat -antp
 
